@@ -1,5 +1,9 @@
 services:
+    Dmishh\SettingsBundle\Manager\SettingsManager:
+      alias: dmishh.settings.settings_manager
+
     settings_manager:
+      public: true
       alias: dmishh.settings.settings_manager
 
     dmishh.settings.settings_manager:
