@@ -1,5 +1,5 @@
 {
-    "name": "ampersand/settings-bundle",
+    "name": "dmishh/settings-bundle",
     "description": "Database centric Symfony configuration management. Global and per-user settings supported.",
     "keywords": ["symfony", "bundle", "config", "configuration", "settings"],
     "homepage": "https://github.com/ampersandhq/SettingsBundle",
